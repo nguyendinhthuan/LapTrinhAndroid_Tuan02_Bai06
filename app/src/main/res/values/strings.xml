@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">LapTrinhAndroid_Tuan02_Bai06</string>
+    
+    <array name="listview">
+        <item> Tèo </item>
+        <item> Tý </item>
+        <item> Bin </item>
+        <item> Bo </item>
+    </array>
+</resources>
